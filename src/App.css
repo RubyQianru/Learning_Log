@@ -1,20 +1,8 @@
 .App {
-  width: 300px;
-  height: 300px;
-  margin: 50px auto;
-  background-color: #bfa;
   text-align: center;
-}
-
-.App h1{
-  padding-top: 50px;
-}
-
-
-.App button{
-  font-size: 50px;
-  width: 100px;
-  margin: 0 20px;
+  width: 800px;
+  margin: 50px auto;
+  
 }
 
 .App-logo {
